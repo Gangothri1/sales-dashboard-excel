@@ -28,6 +28,7 @@ This project is an interactive Sales Dashboard built using Microsoft Excel.
 * Orders increased steadily over time
 
 ## 📷 Dashboard Preview
-<img width="1014" height="650" alt="image" src="https://github.com/user-attachments/assets/4debc4d8-ef96-4c52-8233-ada569a0dd57" />
+<img width="1010" height="592" alt="image" src="https://github.com/user-attachments/assets/676aa59a-e3a2-4614-9d02-fdaba2d5ba58" />
+
 
 
